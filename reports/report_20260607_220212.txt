@@ -1,0 +1,28 @@
+=== Ping selected ===
+PING google.com (192.178.193.100): 56 data bytes
+64 bytes from 192.178.193.100: icmp_seq=0 ttl=108 time=41.282 ms
+64 bytes from 192.178.193.100: icmp_seq=1 ttl=108 time=44.574 ms
+64 bytes from 192.178.193.100: icmp_seq=2 ttl=108 time=41.482 ms
+64 bytes from 192.178.193.100: icmp_seq=3 ttl=108 time=40.282 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 40.282/41.905/44.574/1.607 ms
+=== DNS Lookup selected ===
+Server:		2405:201:f020:5015::c0a8:1d01
+Address:	2405:201:f020:5015::c0a8:1d01#53
+
+Non-authoritative answer:
+Name:	google.com
+Address: 192.178.193.113
+Name:	google.com
+Address: 192.178.193.101
+Name:	google.com
+Address: 192.178.193.102
+Name:	google.com
+Address: 192.178.193.139
+Name:	google.com
+Address: 192.178.193.138
+Name:	google.com
+Address: 192.178.193.100
+

@@ -1,0 +1,10 @@
+=== Ping selected ===
+PING google.com (192.178.193.138): 56 data bytes
+64 bytes from 192.178.193.138: icmp_seq=0 ttl=107 time=74.754 ms
+64 bytes from 192.178.193.138: icmp_seq=1 ttl=107 time=33.360 ms
+64 bytes from 192.178.193.138: icmp_seq=2 ttl=107 time=38.093 ms
+64 bytes from 192.178.193.138: icmp_seq=3 ttl=107 time=36.324 ms
+
+--- google.com ping statistics ---
+4 packets transmitted, 4 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 33.360/45.633/74.754/16.898 ms
